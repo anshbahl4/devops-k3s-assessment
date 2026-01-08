@@ -3,7 +3,7 @@ oidc:
   clientSecret: ""
   issuer: "https://<ansh.com>/auth/realms/hyperplane/.well-known/openid-configuration"
   scopes:
-	- openid
-	- profile
-	- email
+	  - openid
+	  - profile
+	  - email
 
