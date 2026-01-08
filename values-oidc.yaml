@@ -1,0 +1,9 @@
+oidc:
+  clientId: "test"
+  clientSecret: ""
+  issuer: "https://<ansh.com>/auth/realms/hyperplane/.well-known/openid-configuration"
+  scopes:
+	- openid
+	- profile
+	- email
+
